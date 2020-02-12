@@ -1,0 +1,11 @@
+<div>
+  <h1 class="page-title">
+    {{ 'HOME.TITLE' | translate }}
+  </h1>
+</div>
+<div>
+  {{ 'HOME.SELECT' | translate }}
+  <select #langSelect (change)="translate.use(langSelect.value)">
+    <option *ngFor="let lang of translate.getLangs()" >{{ lang }}</option>
+  </select>
+</div>

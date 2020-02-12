@@ -1,0 +1,12 @@
+{
+  "HOME": {
+    "TITLE": "Home Page",
+    "SELECT": "Change language"
+  },
+  "ACTION" : {
+    "CREATE": "Create",
+    "READ" : "Read",
+    "UPDATE" : "Update",
+    "DELETE" : "Delete"
+  }
+}

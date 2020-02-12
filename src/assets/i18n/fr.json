@@ -1,0 +1,12 @@
+{
+  "HOME": {
+    "TITLE": "Page d'accueil",
+    "SELECT": "Changer la langue"
+  },
+  "ACTION" : {
+    "CREATE": "Créer",
+    "READ" : "Lire",
+    "UPDATE" : "Mettre à jour",
+    "DELETE" : "Supprimer"
+  }
+}
